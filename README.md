@@ -19,7 +19,7 @@ Assuming, I am the data analyst. I have been briefed about the task in the stake
 2. Performed data transformation and cleaning using power query on the imported data in Power BI.
 3. Established relationships between different tables using data modeling.
 4. Built measures and calculated columns per needs and used them for creating visuals in PowerBI.
-5. 
+
 ### Data Model
 
 Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.  
@@ -27,7 +27,17 @@ This data model also shows how fact_bookings have been connected to fact_aggrega
 
 <img width="835" alt="Model" src="https://github.com/nadirquamer/Hotel_Revenue_Insights_Excel_PowerBI/assets/46354703/4485d8cc-ea4e-45d8-9b49-2979b134e76c">
 
+
 ### Dashboard
+The dashboard with one page which works as a dashboard and overview, Other pages are tool tips connected with the first page. focused on weekly trend graphs of different key metrics.
+
+![Dash](https://github.com/nadirquamer/Hotel_Revenue_Insights_Excel_PowerBI/assets/46354703/66482c64-7e6a-484f-bc2a-53b822eac302)
+
+### Key Insights
+
+- Data shows, that these hotels have a flat pricing strategy i.e. selling rooms at flat rates irrespective of peak or holiday season. So, there is a huge opportunity to increase revenue by adopting dynamic pricing, and weekday/weekend pricing as well.
+- Some hotels don’t have good occupancy and cancellation is also high. So, data is clearly showing these hotels do not have good ratings. These need to be addressed by working on services and ratings with the help of customer reviews and feedback.
+- Also, Hotels are not using any promotions strategy on their own channel, which most hotels do. They can offer promotions or coupons on their own channel without disrupting public prices. so that more people can end up booking from their own channel.
 
 
 
