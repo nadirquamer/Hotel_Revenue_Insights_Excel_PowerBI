@@ -25,3 +25,10 @@ Assuming, I am the data analyst. I have been briefed about the task in the stake
 Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.  
 This data model also shows how fact_bookings have been connected to fact_aggregated bookings and other necessary dim_tables.
 
+<img width="835" alt="Model" src="https://github.com/nadirquamer/Hotel_Revenue_Insights_Excel_PowerBI/assets/46354703/4485d8cc-ea4e-45d8-9b49-2979b134e76c">
+
+### Dashboard
+
+
+
+
